@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Gerardo",
+        "designation": "Associate Art Director"
+    },
+    {
+        "name": "Justin",
+        "designation": "Lead Characters and Weapons Artist"
+    },
+    {
+        "name": "Yves",
+        "designation": "Lead Destruction Artist"
+    },
+    {
+        "name": "Sami",
+        "designation": "Principal Artist"
+    },
+    {
+        "name": "Javier",
+        "designation": "Senior Concept Artist"
+    },
+    {
+        "name": "Nickolas",
+        "designation": "Principal Environment Artist"
+    },
+    {
+        "name": "Marco",
+        "designation": "Animation Director"
+    },
+    {
+        "name": "Victor",
+        "designation": "Senior Technical Designer"
+    },
+    {
+        "name": "Alden",
+        "designation": "Senior Technical Artist"
+    },
+    {
+        "name": "Reza",
+        "designation": "Lead VFX Artist"
+    },
+    {
+        "name": "Danny",
+        "designation": "Senior UI/UX Designer / Product Manager"
+    },
+    {
+        "name": "Justin",
+        "designation": "Designer"
+    }
+]

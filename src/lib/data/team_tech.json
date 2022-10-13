@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Andrew",
+        "designation": "Principal Engineer"
+    },
+    {
+        "name": "Taekyung",
+        "designation": "Principal Engineer"
+    },
+    {
+        "name": "Chris",
+        "designation": "Senior Software Engineer"
+    },
+    {
+        "name": "Greg B.",
+        "designation": "Information Systems Director"
+    },
+    {
+        "name": "Gilbert",
+        "designation": "Senior Software Engineer"
+    },
+    {
+        "name": "Peter",
+        "designation": "Senior Software Engineer"
+    },
+    {
+        "name": "Greg M.",
+        "designation": "Senior Software Engineer"
+    },
+    {
+        "name": "Kiran",
+        "designation": "Senior Machine Learning Engineer"
+    },
+    {
+        "name": "Alex",
+        "designation": "Senior Web Engineer"
+    },
+    {
+        "name": "Saras",
+        "designation": "Software Engineer"
+    },
+    {
+        "name": "Sumeet",
+        "designation": "Software Engineer"
+    },
+    {
+        "name": "Mike",
+        "designation": "Software Engineer"
+    },
+    {
+        "name": "Daniel",
+        "designation": "Software Engineer"
+    },
+    {
+        "name": "Justin",
+        "designation": "QA Manager"
+    },
+    {
+        "name": "Mariia",
+        "designation": "QA Analyst"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "TeamMemberImg": "/Robert-Jay-Lee.jpg",
+        "name": "Robert “Jay” Lee",
+        "designation": "CTO",
+        "linkedin_profile": "https://www.linkedin.com/in/jaylee01/",
+        "TeamMemberDetails": "Robert “Jay” Lee has an excellent background in technical leadership, large-scale online gaming, and information technology services, with 25+ years of experience in all aspects of game development on PC, Console, and Mobile platforms. He has held leadership positions at multiple companies including Electronic Arts, NCSOFT, and Trion Worlds. He is credited as the lead inventor on multiple granted patents in the online gaming space. Mr. Lee has also spoken on industry panels and has multiple articles published in game industry literature."
+    },
+    {
+        "TeamMemberImg": "/Jon-Horsley.jpg",
+        "name": "Jon Horsley",
+        "designation": "CDO",
+        "linkedin_profile": "https://www.linkedin.com/in/jonhorsley/",
+        "TeamMemberDetails": "Mr. Horsley has over 30 years of experience as general manager, executive producer, and development director for companies like Electronic Arts, Activision, and Take-Two with over 40 credited titles. From sports titles like NBA Basketball and Tiger Woods Golf to action titles like James Bond 007 to original IP, Mr. Horsley brings to Digital Insight Games a wealth of knowledge and expertise in all facets of development and production."
+    },
+    {
+        "TeamMemberImg": "/Won-S-Chung.jpg",
+        "name": "Won S. Chung",
+        "designation": "COO",
+        "linkedin_profile": "https://www.linkedin.com/in/won-s-chung/",
+        "TeamMemberDetails": "Won S. Chung has over 25 years of experience in video games and esports, playing key roles in strategic planning, business development, operations, and executive-level production. Companies include NCSOFT, Trion Worlds, Electronic Arts, CJ ENM, and NX3 Games, three of which were startups when Mr. Chung joined to build teams. He has worked in Asia for 10 years and in the US 15+ years and is well connected and experienced in both worlds."
+    },
+    {
+        "TeamMemberImg": "/Craig-Rechenmacher.jpg",
+        "name": "Craig Rechenmacher",
+        "designation": "CMO",
+        "linkedin_profile": "https://www.linkedin.com/in/craig-rechenmacher-7568791/",
+        "TeamMemberDetails": "Craig Rechenmacher has more than 20 years of experience driving brand, product, digital, and performance marketing at leading interactive entertainment and gaming companies. Rechenmacher is an accomplished marketing executive with demonstrated success building performance-based, data-driven marketing organizations. Prior to DIG, Rechenmacher was Chief Marketing Officer at Anki Inc, a robotics and AI company that established a new category of entertainment robotics. He also served as Vice President of Marketing for Origin, EA’s direct-to-consumer digital distribution platform. During his seven years at the company, he also led global marketing efforts for EA Partners and EA Games Label divisions"
+    },
+    {
+        "TeamMemberImg": "/Eric-Lindstrom.jpg",
+        "name": "Eric Lindstrom",
+        "designation": "Creative Director",
+        "linkedin_profile": "https://www.linkedin.com/in/ericlindstrom/",
+        "TeamMemberDetails": "Eric Lindstrom is a 30-year industry veteran who has worked as a game designer, creative director, and team leader at high-profile console gaming companies such as Electronic Arts and Eidos/Crystal Dynamics. At Social Gaming Network (SGN), he played a key role in the early days of tablet applications that launched mobile Free-to-Play gaming. Lindstrom is an expert in translating global IP into video games, and his work has been nominated for awards by both The Writers Guild of America (WGA) and the British Academy of Film and Television Arts (BAFTA)."
+    },
+    {
+        "TeamMemberImg": "/Alejandro-Gil.jpg",
+        "name": "Alejandro Gil",
+        "designation": "Studio Art Director",
+        "linkedin_profile": "https://www.linkedin.com/in/alejandro-gil-779542/",
+        "TeamMemberDetails": "Besides raising chickens in the heart of Silicon Valley, Alejandro has been in creative and lead art roles on more than 40 projects, working for companies like Midway, Electronic Arts, Activision, Square Enix, and 2K. Besides working on franchises as relevant as Call of Duty, Tomb Raider, Lord of the Rings, or Dead Space, Alejandro has worked as well on many titles under his own studio, Blackpoint, based in San Francisco, with clients that included Namco, Vivendi, Sega, and THQ. Alejandro has directed and built enough teams to know that most developers are passionate and creative, but can only flourish with the right vision, leadership, and tools."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "newsImg": "/n1.jpg",
+        "newsTitle": "Digital Insight Games (DIG) Launches with $7.5M in Series A Funding from Co-Leads Hivemind Capital and Griffin Gaming Partners",
+        "newsDesc": "Co-Led by Hall of Fame Game Designer Jon Van Caneghem and Tencent’s Jack Sheng, Company Set to Pioneer Next-Gen Web3 Gaming with Original IP Using Blockchain/NFT Technology",
+        "newsDate": "04.14.2022",
+        "newsUrl": "https://finance.yahoo.com/news/digital-insight-games-dig-launches-120000658.html"
+    },
+    {
+        "newsImg": "/n2.jpg",
+        "newsTitle": "Might & Magic creator raises $7.5M for original blockchain games",
+        "newsDesc": "Did you miss a session from GamesBeat Summit 2022? All sessions are available to stream now",
+        "newsDate": "04.08.2022",
+        "newsUrl": "https://venturebeat.com/games/might-magic-creator-jon-van-caneghem-raises-7-5m-for-original-blockchain-games/"
+    },
+    {
+        "newsImg": "/n3.jpg",
+        "newsTitle": "Web3 gaming company staffed by industry veterans unveils very first project",
+        "newsDesc": "Digital Insight Games debuts first web3 action strategy game titled Cloud Castles...",
+        "newsDate": "26.08.2022",
+        "newsUrl": "https://cointelegraph.com/news/web3-gaming-company-staffed-by-industry-veterans-unveils-very-first-project"
+    },
+    {
+        "newsImg": "/n4.jpg",
+        "newsTitle": "Digital Insight Games (DIG) announces debut title, Cloud Castles",
+        "newsDesc": "Gaming industry Hall of Fame designer Jon Van Caneghem, to his first title powered by Blockchain.",
+        "newsDate": "25.08.2022",
+        "newsUrl": "https://cointelegraph.com/press-releases/digital-insight-games-dig-announces-debut-title-cloud-castles"
+    }
+]
